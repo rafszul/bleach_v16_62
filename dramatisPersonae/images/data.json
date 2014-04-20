@@ -1,0 +1,599 @@
+{
+	"name": "dramatisPersonae001-4.ai",
+	"width": 664,
+	"height": 10606,
+	"layers": [
+		{
+			"x": "4.21",
+			"y": "-0.99",
+			"r": "646.86",
+			"b": "253.78",
+			"width": "642.65",
+			"height": "254.77",
+			"layername": "Layer 44.svg",
+			"name": "Layer-44",
+			"type": "svg",
+			"filename": "Layer-44.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "3.64",
+			"y": "304.13",
+			"r": "646.51",
+			"b": "568.27",
+			"width": "642.87",
+			"height": "264.14",
+			"layername": "Layer 43.svg",
+			"name": "Layer-43",
+			"type": "svg",
+			"filename": "Layer-43.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "13.87",
+			"y": "598.61",
+			"r": "637.20",
+			"b": "870.86",
+			"width": "623.33",
+			"height": "272.25",
+			"layername": "Layer 42.svg",
+			"name": "Layer-42",
+			"type": "svg",
+			"filename": "Layer-42.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "3583.82",
+			"r": "644.35",
+			"b": "3825.84",
+			"width": "644.35",
+			"height": "242.02",
+			"layername": "Layer 41.svg",
+			"name": "Layer-41",
+			"type": "svg",
+			"filename": "Layer-41.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.90",
+			"y": "3889.98",
+			"r": "643.45",
+			"b": "4100.40",
+			"width": "642.55",
+			"height": "210.42",
+			"layername": "Layer 40.svg",
+			"name": "Layer-40",
+			"type": "svg",
+			"filename": "Layer-40.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.15",
+			"y": "4185.09",
+			"r": "642.47",
+			"b": "4405.29",
+			"width": "642.32",
+			"height": "220.20",
+			"layername": "Layer 39.svg",
+			"name": "Layer-39",
+			"type": "svg",
+			"filename": "Layer-39.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.29",
+			"y": "4470.43",
+			"r": "640.97",
+			"b": "4700.60",
+			"width": "640.68",
+			"height": "230.17",
+			"layername": "Layer 38.svg",
+			"name": "Layer-38",
+			"type": "svg",
+			"filename": "Layer-38.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.38",
+			"y": "4777.69",
+			"r": "640.88",
+			"b": "4977.85",
+			"width": "640.50",
+			"height": "200.16",
+			"layername": "Layer 37.svg",
+			"name": "Layer-37",
+			"type": "svg",
+			"filename": "Layer-37.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "6.54",
+			"y": "-5749.82",
+			"r": "645.02",
+			"b": "10644.30",
+			"width": "638.48",
+			"height": "16394.12",
+			"layername": "Layer 36.svg",
+			"name": "Layer-36",
+			"type": "svg",
+			"filename": "Layer-36.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1.52",
+			"y": "1194.99",
+			"r": "644.54",
+			"b": "1443.93",
+			"width": "643.02",
+			"height": "248.94",
+			"layername": "Layer 35.svg",
+			"name": "Layer-35",
+			"type": "svg",
+			"filename": "Layer-35.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "1498.79",
+			"r": "646.87",
+			"b": "1743.48",
+			"width": "646.87",
+			"height": "244.69",
+			"layername": "Layer 34.svg",
+			"name": "Layer-34",
+			"type": "svg",
+			"filename": "Layer-34.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "7.51",
+			"y": "1787.18",
+			"r": "645.88",
+			"b": "2038.86",
+			"width": "638.37",
+			"height": "251.68",
+			"layername": "Layer 33.svg",
+			"name": "Layer-33",
+			"type": "svg",
+			"filename": "Layer-33.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-21.27",
+			"y": "8011.37",
+			"r": "621.55",
+			"b": "8269.10",
+			"width": "642.82",
+			"height": "257.73",
+			"layername": "Layer 32.svg",
+			"name": "Layer-32",
+			"type": "svg",
+			"filename": "Layer-32.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-21.27",
+			"y": "8319.27",
+			"r": "597.06",
+			"b": "8540.39",
+			"width": "618.33",
+			"height": "221.12",
+			"layername": "Layer 31.svg",
+			"name": "Layer-31",
+			"type": "svg",
+			"filename": "Layer-31.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-21.27",
+			"y": "8611.50",
+			"r": "565.18",
+			"b": "8847.16",
+			"width": "586.45",
+			"height": "235.66",
+			"layername": "Layer 30.svg",
+			"name": "Layer-30",
+			"type": "svg",
+			"filename": "Layer-30.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-21.27",
+			"y": "8884.60",
+			"r": "621.55",
+			"b": "9154.78",
+			"width": "642.82",
+			"height": "270.18",
+			"layername": "Layer 29.svg",
+			"name": "Layer-29",
+			"type": "svg",
+			"filename": "Layer-29.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-21.27",
+			"y": "9201.49",
+			"r": "621.55",
+			"b": "9422.33",
+			"width": "642.82",
+			"height": "220.84",
+			"layername": "Layer 28.svg",
+			"name": "Layer-28",
+			"type": "svg",
+			"filename": "Layer-28.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "9496.74",
+			"r": "642.82",
+			"b": "9751.52",
+			"width": "642.82",
+			"height": "254.78",
+			"layername": "Layer 27.svg",
+			"name": "Layer-27",
+			"type": "svg",
+			"filename": "Layer-27.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "10403.30",
+			"r": "594.97",
+			"b": "10607.69",
+			"width": "594.97",
+			"height": "204.39",
+			"layername": "Layer 26.svg",
+			"name": "Layer-26",
+			"type": "svg",
+			"filename": "Layer-26.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "10089.95",
+			"r": "642.82",
+			"b": "10339.74",
+			"width": "642.82",
+			"height": "249.79",
+			"layername": "Layer 25.svg",
+			"name": "Layer-25",
+			"type": "svg",
+			"filename": "Layer-25.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "9784.57",
+			"r": "642.82",
+			"b": "10055.88",
+			"width": "642.82",
+			"height": "271.31",
+			"layername": "Layer 24.svg",
+			"name": "Layer-24",
+			"type": "svg",
+			"filename": "Layer-24.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "6528.70",
+			"r": "640.74",
+			"b": "6749.09",
+			"width": "640.74",
+			"height": "220.39",
+			"layername": "Layer 23.svg",
+			"name": "Layer-23",
+			"type": "svg",
+			"filename": "Layer-23.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.17",
+			"y": "6819.09",
+			"r": "640.57",
+			"b": "7039.43",
+			"width": "640.40",
+			"height": "220.34",
+			"layername": "Layer 22.svg",
+			"name": "Layer-22",
+			"type": "svg",
+			"filename": "Layer-22.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.13",
+			"y": "7411.98",
+			"r": "640.61",
+			"b": "7627.26",
+			"width": "640.48",
+			"height": "215.28",
+			"layername": "Layer 21.svg",
+			"name": "Layer-21",
+			"type": "svg",
+			"filename": "Layer-21.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.17",
+			"y": "7129.19",
+			"r": "597.60",
+			"b": "7329.32",
+			"width": "597.43",
+			"height": "200.13",
+			"layername": "Layer 20.svg",
+			"name": "Layer-20",
+			"type": "svg",
+			"filename": "Layer-20.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.04",
+			"y": "7696.74",
+			"r": "640.70",
+			"b": "7926.93",
+			"width": "640.66",
+			"height": "230.19",
+			"layername": "Layer 19.svg",
+			"name": "Layer-19",
+			"type": "svg",
+			"filename": "Layer-19.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "15.39",
+			"y": "2093.23",
+			"r": "625.71",
+			"b": "2349.27",
+			"width": "610.32",
+			"height": "256.04",
+			"layername": "Layer 18.svg",
+			"name": "Layer-18",
+			"type": "svg",
+			"filename": "Layer-18.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "3.18",
+			"y": "2406.41",
+			"r": "637.92",
+			"b": "2616.82",
+			"width": "634.74",
+			"height": "210.41",
+			"layername": "Layer 17.svg",
+			"name": "Layer-17",
+			"type": "svg",
+			"filename": "Layer-17.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.35",
+			"y": "2689.03",
+			"r": "640.75",
+			"b": "2934.20",
+			"width": "640.40",
+			"height": "245.17",
+			"layername": "Layer 16.svg",
+			"name": "Layer-16",
+			"type": "svg",
+			"filename": "Layer-16.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.30",
+			"y": "3001.89",
+			"r": "640.80",
+			"b": "3202.06",
+			"width": "640.50",
+			"height": "200.17",
+			"layername": "Layer 15.svg",
+			"name": "Layer-15",
+			"type": "svg",
+			"filename": "Layer-15.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "3269.03",
+			"r": "641.10",
+			"b": "3519.36",
+			"width": "641.10",
+			"height": "250.33",
+			"layername": "Layer 14.svg",
+			"name": "Layer-14",
+			"type": "svg",
+			"filename": "Layer-14.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "3.34",
+			"y": "5046.29",
+			"r": "637.98",
+			"b": "5246.49",
+			"width": "634.64",
+			"height": "200.20",
+			"layername": "Layer 13.svg",
+			"name": "Layer-13",
+			"type": "svg",
+			"filename": "Layer-13.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.69",
+			"y": "5329.15",
+			"r": "641.20",
+			"b": "5544.30",
+			"width": "640.51",
+			"height": "215.15",
+			"layername": "Layer 12.svg",
+			"name": "Layer-12",
+			"type": "svg",
+			"filename": "Layer-12.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.60",
+			"y": "5636.64",
+			"r": "641.29",
+			"b": "5836.81",
+			"width": "640.69",
+			"height": "200.17",
+			"layername": "Layer 11.svg",
+			"name": "Layer-11",
+			"type": "svg",
+			"filename": "Layer-11.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-0.00",
+			"y": "5936.80",
+			"r": "641.89",
+			"b": "6117.37",
+			"width": "641.89",
+			"height": "180.57",
+			"layername": "Layer 10.svg",
+			"name": "Layer-10",
+			"type": "svg",
+			"filename": "Layer-10.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "0.71",
+			"y": "6219.22",
+			"r": "641.18",
+			"b": "6419.39",
+			"width": "640.47",
+			"height": "200.17",
+			"layername": "Layer 9.svg",
+			"name": "Layer-9",
+			"type": "svg",
+			"filename": "Layer-9.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-7859.73",
+			"y": "-5649.94",
+			"r": "8747.14",
+			"b": "10781.47",
+			"width": "16606.87",
+			"height": "16431.41",
+			"layername": "all.svg",
+			"name": "all",
+			"type": "svg",
+			"filename": "all.svg",
+			"visible": false,
+			"items": [
+				
+			]
+		}
+	]
+}
